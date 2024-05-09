@@ -1,24 +1,6 @@
-# README
+Contacts App
+This is a simple Contacts Management application built with Ruby on Rails. It allows users to manage their contacts in a secure and intuitive way.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Features
+User Authentication: Users can sign up, log in, and log out. User authentication is handled by the Devise.
+Contact Management: Users can create, read, update, and delete their contacts. Each contact includes fields for name and phone number.
